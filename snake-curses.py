@@ -1,8 +1,8 @@
 # Steps to play the game
 # 1. Install windows-curses package (in case you don't have it installed). Type: python -m pip install windows-curses (in Windows Powershell)
-# 2. Download the python file.
+# 2. Download this python file.
 # 3. Go the folder where you downloaded, right click and select "Open in Terminal". Go fullscreen.
-# 4. Type: python the-curse-of-the-snake.py (and click enter).
+# 4. Type: python snake-curses.py (and click enter).
 
 
 import random
