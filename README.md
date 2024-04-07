@@ -1,4 +1,4 @@
-# - The Curse of the Snake -
+# Snake Curses
 A snakegame made by using Python with application of Curses library for interface.
 
 ## Steps to play the game
